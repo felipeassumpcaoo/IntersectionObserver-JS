@@ -1,0 +1,3 @@
+Para fazer o efeito de scroll vamos usar o IntersectionObserver
+
+O IntersectionObserver nos permite observar todos os elementos da noss pagina e decidir quando eles vão fazer as animações;
